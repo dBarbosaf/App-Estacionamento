@@ -32,6 +32,7 @@ $(document).on("click", "#cadastrar", function(){
 });
 
 
+
 //---------------- listas -----------------
 
 $(document).on("click", "#buscarn",function(){
